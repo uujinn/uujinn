@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Yang Yujin</h1>
-<h2 align="center">A Passionate Student Developer 👩🏻‍💻</h2>
+<h1 align="center">Hi 👋, I'm Yang Yujin </h1>
+<h3 align="center">A Passionate Student Developer 👩🏻‍💻</h3>
 
 <br>
 
