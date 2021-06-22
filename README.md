@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
-<br>
+
 
 
       
@@ -38,11 +38,8 @@
 
 <br>
 <br>
-
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uujinn&layout=compact&theme=default)](https://github.com/uujinn)
-<br>
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default&show_icons=true)
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uujinn&layout=compact&theme=default)](https://github.com/uujinn)  
 
 </div>
