@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yang Yujin </h1>
 <h3 align="center">A Passionate Student Developer 👩🏻‍💻</h3>
+<br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
       <a href = "https://asxpyn.tistory.com"><img src= "https://img.shields.io/badge/♡ blog-hotpink?style=flat-square&logoColor=white""></a>&nbsp
@@ -41,7 +42,7 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uujinn&layout=compact&theme=default)](https://github.com/uujinn)
-
+<br>
 ![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default&show_icons=true)
 
 </div>
