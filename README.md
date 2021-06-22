@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yang Yujin </h1>
 <h3 align="center">A Passionate Student Developer 👩🏻‍💻</h3>
-<p align="center"><a href = "https://asxpyn.tistory.com"><img src= "https://img.shields.io/badge/♡ blog-9cf?logoColor=white?style=flat-square"><a href="mailto:"ureal980804@gmail.com"><img src = "https://img.shields.io/badge/ureal980804@gmail.com-important?logo=Gmail&logoColor=white?style=flat-square"><a href = "https://www.instagram.com/u__real/"><img src = "https://img.shields.io/badge/u__real-blueviolet?logo=Instagram&logoColor=white?style=flat-square">
+<p align="center"><a href = "https://asxpyn.tistory.com"><img src= "https://img.shields.io/badge/♡ blog-9cf?logoColor=white?style=flat-square"><a href="mailto:ureal980804@gmail.com"><img src = "https://img.shields.io/badge/ureal980804@gmail.com-important?logo=Gmail&logoColor=white?style=flat-square"><a href = "https://www.instagram.com/u__real/"><img src = "https://img.shields.io/badge/u__real-blueviolet?logo=Instagram&logoColor=white?style=flat-square">
       
 </p>
 <h3 align="center"> 💪 Skills </h3>
