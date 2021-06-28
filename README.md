@@ -49,8 +49,8 @@
 <br>
 <div align="center">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uujinn&layout=compact&theme=default&card_width=444&title_color=cce0d6&text_color=6b6e6d&bg_color=fffefa&hide_border=true)](https://github.com/uujinn)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uujinn&layout=compact&theme=default&card_width=444&title_color=bdd9cb&text_color=6b6e6d&bg_color=fffefa&hide_border=true)](https://github.com/uujinn)
 <br>
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uujinn&count_private=true&hide=stars,prs,issues,contribs&include_all_commits=true&title_color=cce0d6&text_color=6b6e6d&bg_color=fffefa&hide_border=true)   
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uujinn&count_private=true&hide=stars,prs,issues,contribs&include_all_commits=true&title_color=bdd9cb&text_color=6b6e6d&bg_color=fffefa&hide_border=true)   
 
 </div>
