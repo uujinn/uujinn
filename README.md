@@ -51,6 +51,6 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uujinn&count_private=true&layout=compact&theme=default&card_width=444&title_color=fcb6b6&text_color=595959&bg_color=ffffff&hide_border=false)](https://github.com/uujinn)
 <br>
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uujinn&count_private=true&hide=stars,prs,issues,contribs&include_all_commits=true&title_color=fcb6b6&text_color=595959&bg_color=ffffff&hide_border=false)   
+![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uujinn&count_private=true&hide=stars,prs&issues=true&contribs=true&include_all_commits=true&title_color=fcb6b6&text_color=595959&bg_color=ffffff&hide_border=false)   
 
 </div>
