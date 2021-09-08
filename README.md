@@ -5,7 +5,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
       <a href = "https://asxpyn.tistory.com"><img src= "https://img.shields.io/badge/♡ blog-hotpink?style=flat-square&logoColor=white""></a>&nbsp
-      <a href="mailto:uujinn0804@gmail.com"><img src = "https://img.shields.io/badge/ureal980804@gmail.com-red?style=flat-square&logo=GMail&logoColor=white""></a>&nbsp
+      <a href="mailto:uujinn0804@gmail.com"><img src = "https://img.shields.io/badge/uujinn0804@gmail.com-red?style=flat-square&logo=GMail&logoColor=white""></a>&nbsp
       <a href = "https://www.instagram.com/u__real/"><img src = "https://img.shields.io/badge/u__real-blueviolet?style=flat-square&logo=Instagram&logoColor=white""></a>&nbsp
 </p> 
 <br>
