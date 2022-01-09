@@ -40,7 +40,7 @@
 
 <h3 align="center">💻 My Projects</h3>
 <p align="center">
-  <a href = "https://apps.apple.com/kr/app/%EB%B0%94%EB%A5%B8/id1552030717"><img width="75" alt="image" src="https://user-images.githubusercontent.com/70887135/123608131-7570e300-d839-11eb-8589-108d6caf9186.png">
+  <a href = "https://apps.apple.com/kr/app/%EB%B0%94%EB%A5%B8/id1552030717"><img width="75" alt="image" src="https://user-images.githubusercontent.com/70887135/123608131-7570e300-d839-11eb-8589-108d6caf9186.png"><a href = "https://apps.apple.com/kr/app/%EB%88%88%EA%B8%B8-%EC%A0%90%EC%9E%90-%EB%AC%B8%EC%84%9C-%EB%B2%88%EC%97%AD%EA%B8%B0/id1602907926"><img width="75" alt="image" src="https://user-images.githubusercontent.com/70887135/148674217-1142e88c-3674-45c0-82db-5156ba633729.png">
 
 </p>
 
