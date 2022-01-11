@@ -1,6 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yang-Yujin&desc=A%20Passionate%20Student%20Developer!&fontSize=90&descAlign=60&descAlignY=70&&animation=twinkling)
 
-<h1 align="center">Hi 👋, I'm Yang Yujin </h1>
-<h3 align="center">A Passionate Student Developer 👩🏻‍💻</h3>
 <br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
