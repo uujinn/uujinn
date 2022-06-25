@@ -9,22 +9,14 @@
 </p> 
 <br>
             
-<h3 align="center"> 💪 Skills </h3>
-<h4 align="center">📚 Languages 📚</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src= "https://img.shields.io/badge/Csharp-red?style=flat-square&logoColor=white""></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<!--   <br> -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-</p>
-
+<h3 align="center"> 🛠 Tech Skills 🛠 </h3>
+<div align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
+<div align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 
 
       
 
-<h4 align="center">🛠 Tools 🛠</h4>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=XCode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
@@ -32,7 +24,7 @@
 
 <br>
 
-<h3 align="center">💻 My Projects</h3>
+<h3 align="center">🤍 My Projects 🤍</h3>
 <p align="center">
   <a href = "https://apps.apple.com/kr/app/%EB%B0%94%EB%A5%B8/id1552030717"><img width="50" alt="image" src="https://user-images.githubusercontent.com/70887135/123608131-7570e300-d839-11eb-8589-108d6caf9186.png"><a href = "https://apps.apple.com/kr/app/%EB%88%88%EA%B8%B8-%EC%A0%90%EC%9E%90-%EB%AC%B8%EC%84%9C-%EB%B2%88%EC%97%AD%EA%B8%B0/id1602907926"><img width="50" alt="image" src="https://user-images.githubusercontent.com/70887135/148674217-1142e88c-3674-45c0-82db-5156ba633729.png">
 
