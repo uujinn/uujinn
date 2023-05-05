@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yang-Yujin&desc=A%20Passionate%20iOS%20Developer!&fontSize=90&descAlign=60&descAlignY=70&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yang-Yujin&desc=iOS%20Developer&fontSize=90&descAlign=60&descAlignY=70&&animation=twinkling)
 
 <br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
